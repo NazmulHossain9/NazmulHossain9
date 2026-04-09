@@ -12,7 +12,8 @@ I'm a passionate **Senior Software Engineer** from Bangladesh 🇧🇩 with stro
 * 💼 Former Backend Engineer at **EHSAN SOFTWARE LTD**
 * 🧠 Interested in **System Design, AI, and Distributed Systems**
 * ⚡ Love solving complex problems and optimizing performance
-<-- * 🎯 Goal: Become a **Tier IV Staff Engineer at Google** !-->
+  
+<!-- * 🎯 Goal: Become a **Tier IV Staff Engineer at Google** -->
 
 ---
 
