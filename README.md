@@ -17,6 +17,14 @@ I'm a passionate **Senior Software Engineer** from Bangladesh 🇧🇩 with stro
 
 ---
 
+### 💻 LANGUAGE
+* Python
+* C/C++
+* JavaScript
+* Java
+* Dart
+
+
 ## 🛠️ Tech Stack
 
 ### 💻 Backend
@@ -25,6 +33,7 @@ I'm a passionate **Senior Software Engineer** from Bangladesh 🇧🇩 with stro
 * Django / Django REST Framework
 * GraphQL (Graphene)
 * ERPNext
+* Flutter
 
 ### 🌐 Frontend
 
