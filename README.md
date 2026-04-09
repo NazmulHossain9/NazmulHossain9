@@ -88,8 +88,8 @@ Custom modules and frontend integrations using Vue.js and Frappe framework.
 ## 📫 Connect With Me
 
 * 🌐 Website: https://www.glascutr.com
-* 💼 LinkedIn: (Add your LinkedIn URL)
-* 📧 Email: (Add your email)
+* 💼 LinkedIn: ([https://www.linkedin.com/in/nazmulhossain9/](https://www.linkedin.com/in/nazmulhossain9/))
+* 📧 Email: `nazmul.cse48@gmail.com`
 
 ---
 
